@@ -1,0 +1,7 @@
+git clone https://github.com/popcat/epg1_git.git
+git branch hw-s16451
+git checkout hw-s16451
+git rebase rebase-me
+git merge merge-me
+//tutaj doszło do konfiltu, edycja konfliktu
+git add README.md
